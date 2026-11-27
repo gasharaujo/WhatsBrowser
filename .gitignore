@@ -1,0 +1,15 @@
+bin/
+obj/
+dist/
+.packages/
+.dotnet/
+.preview-profile/
+.vs/
+WebView2/
+*.WebView2/
+.env
+.env.*
+/fluxo.json
+/fluxos.json
+/respostas-prontas.json
+*.user
